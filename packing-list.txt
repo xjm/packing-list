@@ -3,10 +3,8 @@ passport
 few credit cards/ a bank card (call ahead to notify of travel)
 little cash
 photocopy of passport, front and back of cards
-iphone
-android phone (for other countries)
+android phone (works in other countries, and functions as wifi hot spot)
 phone extra battery
-wifi hot spot
 portable charger
 2 head phones
 audio splitter
