@@ -56,6 +56,7 @@ scarf
 handkerchief
 sweatshirt
 hat
+security team hat
 camp towel
 2 skirts
 pants
