@@ -3,9 +3,8 @@ passport
 few credit cards/ a bank card (call ahead to notify of travel)
 little cash
 photocopy of passport, front and back of cards
-android phone (works in other countries, and functions as wifi hot spot)
-phone extra battery
-portable charger
+spare phone
+battery pack
 2 head phones
 audio splitter
 speakers
@@ -13,15 +12,16 @@ audio line in cable
 mini outlet strip/surge protector/usb charger
 outlet adapter
 portable backup drive
-usb to micro usb cable (speaker/extra phone)
+usb to micro usb cable (battery pack)
 usb to mini usb cable (for backup drive)
+usb to usb c
 fitbit usb charger cable
 fitbit
 laptop
 power cord
 video adaptor
 thumb drives
-mentor pins
+pins
 guitar (capo, music, case, picks) or ukulele
 rick steve's guide to country visiting
 paper
@@ -69,6 +69,7 @@ socks
 cup
 spoon
 water bottle
+bottle opener
 trail mix
 magnesium flint
 plastic bag
